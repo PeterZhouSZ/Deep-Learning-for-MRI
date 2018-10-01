@@ -26,7 +26,7 @@ Another modification (or Updates) that can usually happen is:
 - Clinical Application
   - Diagnosis, prognosis, risk assessment
     - Papers
-    - Abstracts
+    - [Abstracts](https://github.com/JoaoTourais/Deep-Learning-for-MRI/blob/master/Clinical_Application/Diagnosis_Prognosis_Risk_Assessment/Abstracts.md)
   - Therapy outcome prediction
     - Papers
     - [Abstracts](https://github.com/JoaoTourais/Deep-Learning-for-MRI/blob/master/Clinical_Application/Therapy_Outcome_Prediction/Abstracts.md)
