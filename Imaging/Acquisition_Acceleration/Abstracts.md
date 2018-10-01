@@ -1,0 +1,12 @@
+# [ISMRM 2018](https://www.ismrm.org/18m/)
+- **Accelerated CEST Imaging with Parallel Deep Convolutional Neural Networks** (2018), H. She et al.  
+- **Accelerated Imaging of Metallic Implants Using a 3D Convolutional Neural Network** (2018), X. Shi et al.  
+- **Accelerated Magnetic Resonance Fingerprinting Using Convolutional Neural Network** (2018), Y. Liao et al.  
+- **Accelerating cardiac dynamic imaging with video prediction using deep predictive coding networks** (2018), X. Feng et al.  
+- **Complex-valued residual network learning for parallel MR imaging** (2018), S. Wang et al.  
+- **Deep learning-based real time MRI** (2018), V. Ghodrati et al.  
+- **DeepSPIRiT: Generalized Parallel Imaging using Deep Convolutional Neural Networks** (2018), J. Cheng et al.  
+- **Further Accelerating SPICE for Ultrafast MRSI Using Learned Spectral Features** (2018), F. Lam et al.  
+- **MLS: Self-learned joint manifold geometry and sparsity aware framework for highly accelerated cardiac cine imaging** (2018), U. Nakarmi et al.  
+- **Real-time cardiac cine using supervised machine learning and compressed sensing with radial trajectory** (2018), J. Lyu et al.  
+- **Scan-specific Robust Artificial-neural-networks for k-space Interpolation (RAKI): Database-free Deep Learning Reconstruction for Fast Imaging** (2018), M. Akçakaya et al.  
