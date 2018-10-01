@@ -39,7 +39,7 @@ Another modification (or Updates) that can usually happen is:
     - Abstracts
   - Quantification
     - Papers
-    - Abstracts
+    - [Abstracts](https://github.com/JoaoTourais/Deep-Learning-for-MRI/blob/master/Image_Analysis/Quantification/Abstracts.md)
   - Segmentation
     - Papers
     - Abstracts
