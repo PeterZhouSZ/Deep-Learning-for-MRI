@@ -46,7 +46,7 @@ Another modification (or Updates) that can usually happen is:
 - Imaging
   - Acquisition acceleration
     - Papers
-    - Abstracts
+    - [Abstracts](https://github.com/JoaoTourais/Deep-Learning-for-MRI/blob/master/Imaging/Acquisition_Acceleration/Abstracts.md)
   - Field map estimation
     - Papers
     - Abstracts
