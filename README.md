@@ -1,5 +1,5 @@
-# Macinhe and Deep Learning for MRI
-List of Macinhe Learning (with a special focus on Deep Learning) papers and abstracts for Magnetic Resonance Imaging (MRI) applications
+# Machine and Deep Learning for MRI
+List of Machine Learning (with a special focus on Deep Learning) papers and abstracts for Magnetic Resonance Imaging (MRI) applications
 
 ## Contributing
 Please feel free to pull requests to add papers/abstracts.
@@ -32,7 +32,7 @@ Please feel free to pull requests to add papers/abstracts.
   - Field map estimation
     - Papers
     - Abstracts
-  - fMRI
+  - functional (fMRI)
     - Papers
     - Abstracts
   - Gadolinium dose reduction
