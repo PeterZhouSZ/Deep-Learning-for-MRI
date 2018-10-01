@@ -1,4 +1,4 @@
-# Deep-Learning-for-MRI
+# Macinhe and Deep Learning for MRI
 List of Macinhe Learning (with a special focus on Deep Learning) papers and abstracts for Magnetic Resonance Imaging (MRI) applications
 
 ## Contributing
