@@ -29,7 +29,7 @@ Another modification (or Updates) that can usually happen is:
     - Abstracts
   - Therapy outcome prediction
     - Papers
-    - Abstracts
+    - [Abstracts](https://github.com/JoaoTourais/Deep-Learning-for-MRI/blob/master/Clinical_Application/Therapy_Outcome_Prediction/Abstracts.md)
   - Workflow enhancement
     - Papers
     - [Abstracts](https://github.com/JoaoTourais/Deep-Learning-for-MRI/blob/master/Clinical_Application/Workflow_Enhancement/Abstracts.md)
