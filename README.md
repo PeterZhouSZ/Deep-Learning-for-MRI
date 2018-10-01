@@ -5,31 +5,34 @@ List of Macinhe Learning (with a special focus on Deep Learning) papers and abst
 Please feel free to pull requests to add papers/abstracts.
 
 ## Table of Contents
-- ML methods
+- Machine Learning methods
 - Clinical Application
-  - Therapy outcome prediction
   - Diagnosis, prognosis, risk assessment
+    - Papers
+    - Abstracts
+  - Therapy outcome prediction
   - Workflow enhancement
 - Image Analysis
-  - Quantification
   - Detection / classification
+  - Quantification
   - Segmentation
 - Imaging
-  - fMRI
-  - Gd dose reduction
-  - Field map estimation
-  - Image synthesis
-  - Image Quality (IQ) improvement
-  - Motion detection / compensation
-  - Image reconstruction
   - Acquisition acceleration
-  - IQ assessment / monitoring
-  - SAR assessment
+  - Field map estimation
+  - fMRI
+  - Gadolinium dose reduction
+  - Image Quality assessment / monitoring
+  - Image Quality improvement
+  - Image reconstruction
+  - Image synthesis
+  - Motion detection / compensation
   - Pulse sequence design
+  - Specific Absorption Rate (SAR) assessment
 
 - Clinical area
-  - Generic
-  - MSK / Spine
-  - Cardiovascular
   - Body
+  - Cardiovascular
+  - Generic
+  - Musculoskeletal / Spine
   - Neuro
+
