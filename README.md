@@ -48,7 +48,7 @@ Another modification (or Updates) that can usually happen is:
   - Field map estimation
     - Papers
     - Abstracts
-  - functional (fMRI)
+  - Functional (fMRI)
     - Papers
     - Abstracts
   - Gadolinium dose reduction
