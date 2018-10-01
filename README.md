@@ -1,6 +1,8 @@
 # Machine and Deep Learning for MRI
 List of Machine Learning (with a special focus on Deep Learning) papers and abstracts for Magnetic Resonance Imaging (MRI) applications.
 
+For now, the publications are alphabetically ordered. In the future, the number of citations will be used.
+
 ## Contributing
 You can **add / delete / modify** the papers on this list.
 
@@ -16,7 +18,7 @@ If a publication seems to be a duplication of another publication, you can sugge
 
 #### Modification
 Another modification (or Updates) that can usually happen is:
-- move publications from a section from another
+- move publications from a section to another
 - correction of typo, grammatical error, etc.
 
 
