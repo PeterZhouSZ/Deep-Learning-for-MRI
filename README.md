@@ -1,5 +1,8 @@
 # Machine and Deep Learning for MRI
-List of Machine Learning (with a special focus on Deep Learning) papers and abstracts for Magnetic Resonance Imaging (MRI) applications
+List of Machine Learning (with a special focus on Deep Learning) papers and abstracts for Magnetic Resonance Imaging (MRI) applications.
+
+## Style
+Publication title (year), First Author et al. [pdf if available] [link to publication] [code repository]
 
 ## Contributing
 Please feel free to pull requests to add papers/abstracts.
