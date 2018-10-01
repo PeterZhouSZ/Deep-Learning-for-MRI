@@ -1,0 +1,1 @@
+- **Automated Billing Code Prediction from MRI Log Data** (2018), J. Denck et al. [[link]](http://indexsmart.mirasmart.com/ISMRM2018/PDFfiles/2635.html)
