@@ -1,11 +1,24 @@
 # Machine and Deep Learning for MRI
 List of Machine Learning (with a special focus on Deep Learning) papers and abstracts for Magnetic Resonance Imaging (MRI) applications.
 
-## Style
-Publication title (year), First Author et al. [pdf if available] [link to publication] [code repository if available]
-
 ## Contributing
-Please feel free to pull requests to add papers/abstracts.
+You can **add / delete / modify** the papers on this list.
+
+#### Addition
+Here is an example of markdown code for a paper on the list.
+
+`Distilling the knowledge in a neural network (2015), G. Hinton et al. [[pdf]](http://arxiv.org/pdf/1503.02531) [[link]](website) [[code]](github repo for instance)`
+
+The pdf link which can directly download the pdf file rather than links to another webpage is preferred. If the number of authors are more than two, please write the first author's name only.
+
+#### Deletion
+If a publication seems to be a duplication of another publication, you can suggest deletion. Deletion is also an important contribution.
+
+#### Modification
+Another modification (or Updates) that can usually happen is:
+- move publications from a section from another
+- correction of typo, grammatical error, etc.
+
 
 ## Table of Contents
 - Clinical Application
