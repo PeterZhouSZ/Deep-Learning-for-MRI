@@ -1,0 +1,36 @@
+# [ISMRM 2018](https://www.ismrm.org/18m/)
+- **A 3D Convolutional Neural Network for Hippocampal Volume Estimation** (2018), L. J. Schmidtke et al.
+- **A Multi-scale Deep ResNet for Radial MR Parameter Mapping** (2018), Z. Fu et al.  
+- **Artificial neural networks for stiffness estimation in magnetic resonance elastography** (2018), M. C. Murphy et al.
+- **AUTO-DCE-MRI: A Deep-Learning Augmented Liver Imaging Framework for Fully-Automated Multiphase Assessment and Perfusion Mapping** (2018), L. Feng et al.
+- **Automated contouring and ADC measurement of esophageal cancer with a fully convolutional network** (2018), B. C. Musall et al.
+- **Automated liver-segment localization and segmental hepatic proton-density fat fraction measurement** (2018), K. Wang et al.
+- **Comparison of Radiomics and Quantitative ADC Measurements of Prostate PI-RADS v2 Lesions to Prospective Radiologist Performance** (2018), D. Bonekamp et al.
+- **Deep Learning for Magnetic Resonance Fingerprinting: Accelerating the Reconstruction of Quantitative Relaxation Maps** (2018), E. Hoppe et al.
+- **Deep neural network based framework for in-vivo axonal permeability estimation** (2018), I. D. Hill et al.  
+- **DeepQSM - Solving the Quantitative Susceptibility Mapping Inverse Problem Using Deep Learning** (2018), M. Kristensen et al.
+- **Direct Estimation of Model Parameters in MR Spectroscopic Imaging using Deep Neural Networks** (2018), D. Das et al.
+- **Dynamic Causal Modelling with neuron firing model in Generalized Recurrent Neural Network framework** (2018), Y. Wang et al.
+- **Estimating Inclusion Stiffness with Artificial Neural Networks in Magnetic Resonance Elastography** (2018), J. M. Scott et al.
+- **Estimation of Pharmacokinetic Parameters in Dynamic Contrast Enhanced MRI via Random Forest Regression** (2018), C. Ulas et al.
+- **Improving Arterial Spin Labeling using Deep Learning** (2018), K. H. Kim et al.  
+- **Machine learning based estimation of axonal permeability: validation on cuprizone treated in-vivo mouse model of axonal demyelination** (2018), M. Palombo et al.
+- **Machine learning for prostate cancer Gleason score prediction using radiomics of T2-weighted imaging, diffusion weighted imaging and T2-mapping** (2018), J. Toivonen et al.
+- **Machine Learning in QSM:   Inversion Using Multi-Resolution Decomposition and Convolutional Neural Networks** (2018), K. Koch et al.
+- **Mapping metabolic activation as FDG-PET/Amyloid-PET using Contrast-free MRI and Deep Learning** (2018), E. Gong et al.
+- **Metabolite Quantification of 1H-MRSI spectra in Multiple Sclerosis: A Machine Learning Approach** (2018), D. Das et al.  
+- **MRSI Brain Temperature Mapping Using Machine Learning** (2018), D. Das et al.
+- **MultiNet PyGRAPPA: A Novel Method for Highly Accelerated Metabolite Mapping** (2018), S. Nassirpour et al.
+- **Non-invasive quantitative estimation of blood oxygen saturation with MRI: feasibility of machine learning** (2018), J. Varghese et al.
+- **Perfusion Pattern Scores Associates with Disease Severity in Type 2 Diabetes** (2018), Y. Chen et al.
+- **Predict the slow oscillation of the single-vessel resting-state fMRI signal of rats and humans with echo state networks** (2018), F. Sobczak et al.
+- **Predicting Contrast Agent Enhancement with Deep Convolution Networks** (2018), T. Christen et al.
+- **Predicting the age from time of flight MR angiography using 3D convolutional neural network** (2018), Y. Nam et al.
+- **Prediction of the mechanical properties of articular cartilage with QSM and T2* in equine post traumatic osteoarthritis model** (2018), O. J. Nykänen et al.
+- **Quantification of relaxation times in MR Fingerprinting using deep learning** (2018), Z. Fang et al.
+- **Quantitative Mapping by Data-Driven Signal-Model Learning** (2018), T. Hilbert et al.
+- **Quantitative susceptibility mapping using deep neural network** (2018), J. Yoon et al.  
+- **Quantitative Synthetic T1 Mapping of the Brain from Structural Imaging using Deep Learning** (2018), S. A. Hurley et al.
+- **Robust diffusion parametric mapping of motion-corrupted data using a deep-learning-based method** (2018), T. Gong et al.
+- **SafeNet: Artificial Neural Network for Real-Time T2 Mapping with Quality Assurance** (2018), D. Lee et al.
+- **Simultaneous Relaxometry and Segmentation of Human Brain through a Deep Neural Network** (2018), P. Cao et al.  
