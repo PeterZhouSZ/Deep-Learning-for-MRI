@@ -70,7 +70,7 @@ Another modification (or Updates) that can usually happen is:
     - Abstracts
   - Motion detection / compensation
     - Papers
-    - Abstracts
+    - [Abstracts](https://github.com/JoaoTourais/Deep-Learning-for-MRI/blob/master/Imaging/Motion_Detection_Compensation/Abstracts.md)
   - Pulse sequence design
     - Papers
     - Abstracts
