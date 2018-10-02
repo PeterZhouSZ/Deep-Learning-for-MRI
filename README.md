@@ -1,5 +1,5 @@
 # Machine and Deep Learning for MRI
-List of Machine Learning (with a special focus on Deep Learning) publications for Magnetic Resonance Imaging (MRI) applications.
+List of publications on Machine Learning and Deep Learning in Magnetic Resonance Imaging (MRI) applications.
 
 For now, the publications are alphabetically ordered. In the future, the number of citations will be used.
 
