@@ -37,7 +37,7 @@ Another modification (or Updates) that can usually happen is:
 - Image Analysis
   - Detection / classification
     - Papers
-    - Abstracts
+    - [Abstracts](https://github.com/JoaoTourais/Deep-Learning-for-MRI/blob/master/Image_Analysis/Detection_Classification/Abstracts.md)
   - Quantification
     - Papers
     - [Abstracts](https://github.com/JoaoTourais/Deep-Learning-for-MRI/blob/master/Image_Analysis/Quantification/Abstracts.md)
