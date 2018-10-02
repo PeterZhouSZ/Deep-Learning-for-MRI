@@ -1,0 +1,46 @@
+# [ISMRM 2018](https://www.ismrm.org/18m/)
+- **2D phase contrast MRI to quantify CSF dynamics change after surgery of Chiari “malformations"** (2018), O. Baledent et al.
+- **A comparison of different brain connectivity markers for classifying Gulf-war illness** (2018), B. Koo et al.
+- **A machine learning method for tissue characterisation in the human thigh** (2018), T. Jones et al.
+- **ADC-map-based classification of glioma-subtypes in diffusion-weighted MR-Imaging** (2018), N. C. Nuessle et al.
+- **Age- and sex-related spatial patterns of variation in normal brain magnetic susceptibility (QSM) revealed by Blind Source Separation (BSS) and Supervised Machine Learning** (2018), F. Schweser et al.
+- **An automated lesion detection method on hepatic hemangioma and hepatic cyst using fully convoluted network** (2018), Y. Zhang et al.
+- **An integrative deep learning model to distinguish between normal and atherosclerotic carotid arteries on black-blood vessel wall MRI** (2018), J. Wu et al.
+- **Automatic classification between high grade gliomas and brain metastasis using Bag-Of-Features in comparison to statistical and morphologic features** (2018), M. Artzi et al.
+- **Automatic classification of patients with Alzheimer’s disease (AD) and mild cognitive impairment (MCI) who will convert to AD using deep neural networks** (2018), F. Agosta et al.
+- **Automatic detection of cerebral microbleeds using Susceptibility-Weighted Imaging and a 3D deep residual network** (2018), Y. Chen et al.
+- **Biophysically meaningful MRI features for accurate classification of multiple sclerosis phenotypes** (2018), A. Ricciardi et al.
+- **Brain Structural Connectome Accurately Classifies Alzheimer’s Disease Related Dementia** (2018), J. Cha et al.
+- **Breast MRI Tissue Classification and Partial Volume Estimation using Different Methods: Evaluation on T1, T2 and PD-weighted TSE Images** (2018), S. Chatterjee et al.
+- **Can A Machine Diagnose Knee MR Images? Fully-automated Cartilage Lesion Detection by using Deep Learning** (2018), F. Liu et al.
+- **Characterization of Active and Infiltrative Tumorous Subregions from Normal Tissue in Brain Gliomas Using Multi-Parametric MRI** (2018), A. F. Kazerooni et al.
+- **Classification of Adipose Tissues using Machine Learning** (2018), B. Campbell et al.
+- **Classification of brain tumors by 1H MRSI and MRI using convolutional neural networks** (2018), J. Acquarelli et al.
+- **Classification of Dense Tumor, Tumor Necrosis and Tumor Infiltration in Glioma: Machine Learning and Diffusion MRI** (2018), Z. Ye et al.
+- **Cortical microstructures at birth predict neurodevelopmental outcome at 2 years of age** (2018), M. Ouyang et al.
+- **Deep learning analysis of cardiac MRI for unsupervised classification of heart disease** (2018), C. Biffi et al.
+- **Deep learning convolutional neural networks accurately classify genetic mutations and survival in gliomas** (2018), P. Chang et al.
+- **Deep Learning on Anatomical Brain MRI to Classify Motor Dysfunction in Parkinson's Disease** (2018), Y. Wu et al.
+- **Deep-learned 3D black-blood imaging using automatic labeling technique and 3D convolutional neural networks for detection of metastatic brain tumors** (2018), Y. Jun et al.
+- **Detection of liver fibrosis from MRIusing histogram of strains** (2018), Y. A. Safwat et al.
+- **Differentiation between vasogenic edema and infiltrative tumor in patients with high grade gliomas using texture patch based analysis** (2018), M. Artzi et al.
+- **Differentiation of Pulmonary From Non-Pulmonary Spine Metastases Using Conventional DCE Kinetic Analysis and Machine Learning** (2018), N. Lang et al.
+- **Explanatory Auxiliary Generative Adversarial Network for Prostate Cancer Lesion Awareness with Very-Weak Supervision** (2018), R. Cao et al.
+- **Improving classifications of brain tumor tissue with Sparse Dictionary Learning based analysis of dynamic susceptibility contrast enhanced MRI data** (2018), S. Wang et al.
+- **Machine learning of DCE MRI intensity histogram radiomic features for pulmonary lesion classification** (2018), W. Wu et al.
+- **MRI-based radiomics signature for head and neck squamous cell carcinoma patients** (2018), L. Dong et al.
+- **Performance of different classifiers in the diagnosis of benign and malignant bone tumors based on MR diffusion kurtosis imaging** (2018), Z. Zhuo et al.
+- **Prediction of Breast Cancer Molecular Subtypes Using Conventional Feature Extraction and Two Machine Learning Architectures Based on DCE-MRI** (2018), Y. Zhang et al.
+- **Predictive Cytological Topography (PiCT): a Radio-Pathomics Approach to Mapping Prostate Cancer** (2018), S. D. McGarry et al.
+- **Quantifying individual and collective prediction accuracy of MR contrasts for glioma tissue compartment classification** (2018), J. G. Parker et al.
+- **Radiogenomics of 154 WHO grade 2 and 3 gliomas via machine learning and the impact of texture analysis** (2018), M. Kinoshita et al.
+- **Radiomics based strategy for identifying poorly differentiated HCC by using precontrast MRI** (2018), J. Wu et al.
+- **ReconNet: A Deep Learning Framework for Transforming Image Reconstruction into Pixel Classification** (2018), K. Pawar et al.
+- **Self-calibrating Wave-encoded 3D Turbo Spin Echo Imaging using Subspace Model based Autofocus** (2018), Z. Zhou et al.
+- **Skull Segmentation for MR-Only Radiotherapy Simulation using An Unsupervised-Learning Multi-Sequence Analysis Framework** (2018), M. W. K. Law et al.
+- **Sleep Deprived and Well Rested Brains are Distinguishable by Machine Learning in T1w Imaging** (2018), A. Hall et al.
+- **Supervised Machine Learning with Blind Source Separation (BSS) reveals distinct networks of pathological changes in brain magnetic susceptibility (QSM): Application to multiple sclerosis** (2018), F. Schweser et al.
+- **The Added Utility of Diffusion Tensor Imaging for Differentiating Malignant and Benign Breast Lesions on 3T MRI: A Machine Learning Based Approach** (2018), J. Luo et al.
+- **The Influence of Heterogenous Subregions on Predicting MGMT Methylation Status of Glioblastomas: A Radiomics Analysis on Multimodal MRI** (2018), Q. Tian et al.
+- **Towards Non-Invasive Characterization of Intravoxel Tumor Heterogeneity: Correlation between Non-Gaussian Diffusion MRI and Histology Using Machine Learning** (2018), M. Karaman et al.
+- **Using deep learning to investigate the value of diffusion weighted images for malignancy characterization of hepatocellular carcinoma** (2018), W. Zhou et al.
