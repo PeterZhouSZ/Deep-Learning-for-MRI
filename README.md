@@ -68,7 +68,7 @@ Another modification (or Updates) that can usually happen is:
     - Abstracts
   - Image synthesis
     - Papers
-    - Abstracts
+    - [Abstracts](https://github.com/JoaoTourais/Deep-Learning-for-MRI/tree/master/Imaging/Image_Synthesis)
   - Motion detection / compensation
     - Papers
     - [Abstracts](https://github.com/JoaoTourais/Deep-Learning-for-MRI/blob/master/Imaging/Motion_Detection_Compensation/Abstracts.md)
