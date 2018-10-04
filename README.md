@@ -9,7 +9,7 @@ You can **add / delete / modify** the publications on this list.
 #### Addition
 Here is an example of markdown code for a paper on the list.
 
-`Distilling the knowledge in a neural network (2015), G. Hinton et al. [[pdf]](http://arxiv.org/pdf/1503.02531) [[link]](website) [[code]](e.g. github repo)`
+`Distilling the knowledge in a neural network (2015), G. Hinton et al. [[pdf]](http://arxiv.org/pdf/1503.02531) [[link]](website) [[code]](e.g. github repo) [[audio-slides]](e.g. youtube)`
 
 The pdf link which can directly download the pdf file rather than links to another webpage is preferred. If the number of authors are more than two, please write the first author's name only.
 
