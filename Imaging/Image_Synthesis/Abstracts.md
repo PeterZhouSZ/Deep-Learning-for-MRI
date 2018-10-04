@@ -1,0 +1,30 @@
+# [ISMRM 2018](https://www.ismrm.org/18m/)
+- **7T DIFFUSION MRI DATA QUALITY FROM 3T SCANNER DATA** (2018), S. C. Karayumak et al.  
+- **A Deep Learning Approach to Synthesize FLAIR Image from T1WI and T2WI** (2018), T. Abe et al.  
+- **CNN based Super-Resolution of Intravoxel Incoherent Motion Imaging for Liver** (2018), J. Huang et al.  
+- **Creating Standardized MR Images with Deep Learning to Improve Cross-Vendor Comparability** (2018), E. Gong et al.  
+- **CT synthesis for MR-only brain radiotherapy treatment planning using convolutional neural networks** (2018), A. M. Dinkla et al.  
+- **Deep CEST MRI – 9.4T spectral super-resolution from 3T CEST MRI data** (2018), M. Zaiss et al.  
+- **Deep Learning based pseudo-CT computation and its application for PET/MR attenuation correction and MR-guided radiation therapy planning** (2018), S. Kaushik et al.  
+- **Efficient Super-Resolution in Intracranial Vessel Wall Magnetic Resonance Imaging using 3D Deep Densely Connected Neural Networks** (2018), Y. Chen et al.  
+- **Evaluation of 2D and 3D convolutional neural network methods for generating pelvic synthetic CT from T1-weighted MRI** (2018), J. Fu et al.  
+- **Expanding SMS cardiac imaging with deep slice interpolation** (2018), E. Gibbons et al.  
+- **Fast and Realistic Super-Resolution in Brain Magnetic Resonance Imaging using 3D Deep Generative Adversarial Networks** (2018), Y. Chen et al.  
+- **Feasibility of MRI image based synthetic CT generation in radiotherapy using deep convolutional neural network** (2018), Y. Li et al.  
+- **FLAIR MR Image Synthesis By Using 3D Fully Convolutional Networks for Multiple Sclerosis** (2018), W. Wei et al.  
+- **Improved Synthetic MRI from Multi-echo MRI Using Deep Learning** (2018), E. Gong et al.  
+- **Increasing Arterial Spin Labeling Perfusion Image Resolution Using Convolutional Neural Networks with Residual-Learning** (2018), Q. Liu et al.  
+- **Motion-tolerant super-resolution reconstruction from multi-stack MR data** (2018), S. Jambawalikar et al.  
+- **MR Image Generation with Deep Learning Incorporating Anatomical Prior Knowledge** (2018), K. H. Kim et al.  
+- **MR Image Super-resolution Reconstruction Via Enhanced Recursive Residual Network** (2018), Y. Fuze et al.  
+- **MR Image Synthesis For Glioma Segmentation** (2018), K. Chang et al.  
+- **MR Image Synthesis Using A Deep Learning Based Data-Driven Approach** (2018), F. Liu et al.  
+- **MRI2MRI: A deep convolutional network that accurately transforms between brain MRI contrasts** (2018), S. Xiao et al.  
+- **MRI-only Treatment Planning using Pseudo CT Generation from Deep Learning Approach** (2018), F. Liu et al.  
+- **Predicting Histological Stainings of Brain Tissue from MRI Data using Artificial Neural Networks** (2018), R. Metere et al.  
+- **Reconstruction of synthetic T1 MPRAGE via Deep Neural Network from Multi Echo Gradient Echo images.** (2018), K. Ryu et al.  
+- **Super-Resolution Musculoskeletal MRI using Deep Learning** (2018), A. S. Chaudhari et al.  
+- **Synthesis and analysis of low b value Diffusion Weighted Images at 10mT** (2018), S. S. Bhat et al.  
+- **Synthetic CT Generation using MRI with Deep Learning: How does the selection of input images affect the resulting synthetic CT?** (2018), A. P. Leynes et al.  
+- **Synthetic FLAIR image from multi-echo GRE using U-Net** (2018), J. Park et al.  
+- **The influence of different MR contrasts in multi-channel convolutional neural networks on pseudo-CT generation for orthopedic purposes** (2018), M. C. Florkow et al.  
