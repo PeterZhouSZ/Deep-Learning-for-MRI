@@ -59,7 +59,7 @@ Another modification (or Updates) that can usually happen is:
     - Abstracts
   - Image Quality assessment / monitoring
     - Papers
-    - Abstracts
+    - [Abstracts](https://github.com/JoaoTourais/Deep-Learning-for-MRI/blob/master/Imaging/Image_Quality_Monitoring_Improvement/Abstracts.md)
   - Image Quality improvement
     - Papers
     - Abstracts
