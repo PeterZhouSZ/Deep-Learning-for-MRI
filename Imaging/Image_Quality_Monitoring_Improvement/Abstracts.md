@@ -1,0 +1,30 @@
+# [ISMRM 2018](https://www.ismrm.org/18m/)
+- **A Learning-based Metal Artifacts Correction Method using Dual-Polarity Readout Gradients** (2018), K. Kwon et al.  
+- **A Machine Learning Approach for Mitigating Artifacts in Fetal Imaging due to an Undersampled HASTE Sequence** (2018), S. Lala et al.  
+- **A supervised learning approach for diffusion MRI quality control with minimal training data** (2018), M. S. Graham et al.  
+- **Artificial Neural Network for Suppression of Metal Artifacts with Slice Encoding for Metal Artifact Correction (SEMAC) MRI** (2018), S. Seo et al.  
+- **Automated Coil Ranking using a Neural Network for Image Quality Assessment: An Explorative Study in Coronary MRI** (2018), J. Heerfordt et al.  
+- **Automatic Assessment of MR Image Quality with Deep Learning** (2018), J. Li et al.  
+- **Automatic Brain MR Sequence Classification for Quality Control using Support Vector Machines and Convolutional Neural Networks** (2018), L. A. S. M. Neto et al.  
+- **Automatic Motion Artifact Detection as Scan-aided Tool in an Autonomous MRI Environment** (2018), W. Jiang et al.  
+- **Automatic Removal of Ghosting Artifacts from MR Spectra using Deep Learning** (2018), S. P. Kyathanahally et al.  
+- **Deep convolutional framelet neural network for reference-free EPI ghost correction** (2018), J. Lee et al.  
+- **Deep Convolutional Neural Network Enhanced 3D High Resolution Turbo Spin Echo Intracranial Vessel Wall Imaging** (2018), Z. Zhou et al.  
+- **Deep Learning and Compressed Sensing: Automated Image Quality Assessment in Iterative Respiratory-Resolved Whole-Heart MRI** (2018), R. Demesmaeker et al.  
+- **Deep learning based MR image diagnostic quality deduction to reduce patient recall** (2018), A. Sreekumari et al.  
+- **Deep Learning for Automated Medical Image Quality Assessment: Proof of Concept in Whole-Heart Magnetic Resonance Imaging** (2018), R. Demesmaeker et al.  
+- **Deep Learning Image Classification for Automatic Frequency Adjustment in High Field Cardiac MR Imaging** (2018), J. W. Goldfarb et al.  
+- **Deep Learning Method for Non-Cartesian Off-resonance Artifact Correction** (2018), D. Y. Zeng et al.  
+- **Deep learning with synthetic data for free water elimination in diffusion MRI** (2018), M. Molina-Romero et al.  
+- **Denoising arterial spin labeling cerebral blood flow images using deep learning-based methods** (2018), D. Xie et al.  
+- **Generic feature extraction accompanied by support vector classification: an efficient and effective way for MR image quality determination** (2018), D. Beque et al.  
+- **Gibbs-Ringing Artifact Reduction in MRI via Machine Learning Using Convolutional Neural Network** (2018), Q. Zhang et al.  
+- **Improving Perfusion Image Quality and Quantification Accuracy Using Multi-contrast MRI and Deep Convolutional Neural Networks** (2018), J. Guo et al.  
+- **Improving the image quality of liver DWI using the convolutional neural network-based selection algorithm** (2018), D. Tamada et al.  
+- **Machine learning algorithms for detection of motion artifacts: a general approach** (2018), A. Sciarra et al.  
+- **Motion Detection and Quality Assessment of MR images with Deep Convolutional DenseNets** (2018), S. Braun et al.  
+- **Noise Level Adaptive Deep Convolutional Neural Network for Image Denoising** (2018), K. Isogawa et al.  
+- **Progressively Distribution-based Rician Noise Removal for Magnetic Resonance Imaging** (2018), Q. Liu et al.  
+- **Reducing Streaking Artifacts in Quantitative Susceptibility Mapping via Deep Learning** (2018), J. Liu et al.  
+- **Shading Artifact Suppression using Relaxation Map and Machine Learning-based Region Detection for Quantitative Susceptibility Mapping** (2018), T. Shiodera et al.  
+- **Simultaneous detection and identification of MR artifact types in whole-body imaging** (2018), T. Kuestner et al.  
